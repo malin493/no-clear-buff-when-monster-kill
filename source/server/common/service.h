@@ -1,0 +1,2 @@
+//add
+#define NO_CLEAR_BUFF_WHEN_MONSTER_KILL
